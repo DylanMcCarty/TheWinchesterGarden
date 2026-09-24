@@ -23,39 +23,6 @@ export default function Home() {
           </div>
         </Col>
       </Row>
-
-      <Row className="py-4 g-4 text-center">
-        <Col md={4}>
-          <div className="p-4 h-100 border rounded-3 bg-light">
-            <div className="fs-1">🌾</div>
-            <h5 className="mt-2">1. Growers sign up</h5>
-            <p className="text-muted mb-0">
-              Local growers submit what they grow, where, and how to reach
-              them.
-            </p>
-          </div>
-        </Col>
-        <Col md={4}>
-          <div className="p-4 h-100 border rounded-3 bg-light">
-            <div className="fs-1">✅</div>
-            <h5 className="mt-2">2. Listings get a quick check</h5>
-            <p className="text-muted mb-0">
-              Every new listing is reviewed before it goes public, to keep
-              the directory legit.
-            </p>
-          </div>
-        </Col>
-        <Col md={4}>
-          <div className="p-4 h-100 border rounded-3 bg-light">
-            <div className="fs-1">🤝</div>
-            <h5 className="mt-2">3. Neighbors connect</h5>
-            <p className="text-muted mb-0">
-              Anyone can browse the directory and reach out directly to a
-              grower near them.
-            </p>
-          </div>
-        </Col>
-      </Row>
     </Container>
   );
 }
