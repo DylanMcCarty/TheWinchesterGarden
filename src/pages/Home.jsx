@@ -36,8 +36,8 @@ export default function Home() {
             descended into hell. On the third day he rose again from the
             dead; he ascended into heaven, and is seated at the right hand of
             God the Father almighty; from there he will come to judge the
-            living and the dead. I believe in the Holy Spirit, the holy
-            catholic Church, the communion of saints, the forgiveness of
+            living and the dead. I believe in the Holy Spirit, the Holy
+            Catholic Church, the communion of saints, the forgiveness of
             sins, the resurrection of the body, and life everlasting. Amen.
           </blockquote>
         </Container>
