@@ -2,6 +2,7 @@
 
 A simple site for growers in Winchester, Kentucky and the surrounding area
 to submit what they grow, so neighbors can browse the list and reach out
+<<<<<<< HEAD
 directly. Built with React + Vite + react-bootstrap, with a Google Sheet as
 the "database" (no server hosting needed).
 
@@ -94,3 +95,6 @@ apps-script/
   Code.gs               — Google Apps Script backend (paste into your Sheet)
   README.md             — step-by-step backend setup
 ```
+=======
+directly.
+>>>>>>> 79960d865669a559a8f47735cbb5eb0ea7272e73
