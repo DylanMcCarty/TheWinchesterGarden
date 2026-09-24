@@ -3,4 +3,3 @@
 A simple site for growers in Winchester, Kentucky and the surrounding area
 to submit what they grow, so neighbors can browse the list and reach out
 directly.
-```
